@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 48989e867d74f2245b0a5751a403ef7c
+timeCreated: 1457908287
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 78bc6b62fEySW_0
+    21300002: 78bc6b62fEySW_1
+    21300004: 78bc6b62fEySW_2
+    21300006: 78bc6b62fEySW_3
+    21300008: 78bc6b62fEySW_4
+    21300010: 78bc6b62fEySW_5
+    21300012: 78bc6b62fEySW_6
+    21300014: 78bc6b62fEySW_7
+    21300016: 78bc6b62fEySW_8
+    21300018: 78bc6b62fEySW_9
+    21300020: 78bc6b62fEySW_10
+    21300022: 78bc6b62fEySW_11
+    21300024: 78bc6b62fEySW_12
+    21300026: 78bc6b62fEySW_13
+    21300028: 78bc6b62fEySW_14
+    21300030: 78bc6b62fEySW_15
+    21300032: 78bc6b62fEySW_16
+    21300034: 78bc6b62fEySW_17
+    21300036: 78bc6b62fEySW_18
+    21300038: 78bc6b62fEySW_19
+    21300040: 78bc6b62fEySW_20
+    21300042: 78bc6b62fEySW_21
+    21300044: 78bc6b62fEySW_22
+    21300046: 78bc6b62fEySW_23
+    21300048: 78bc6b62fEySW_24
+    21300050: 78bc6b62fEySW_25
+    21300052: 78bc6b62fEySW_26
+    21300054: 78bc6b62fEySW_27
+    21300056: 78bc6b62fEySW_28
+    21300058: 78bc6b62fEySW_29
+    21300060: 78bc6b62fEySW_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 78bc6b62fEySW_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 24}
+        - {x: -21.5, y: 11}
+        - {x: -21.5, y: -12}
+        - {x: -19.5, y: -22}
+        - {x: -17.5, y: -24}
+        - {x: 21.5, y: -24}
+        - {x: 21.5, y: 13}
+        - {x: 8.5, y: 24}
+    - name: 78bc6b62fEySW_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 380
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 24}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -22}
+        - {x: -20.5, y: -24}
+        - {x: 21.5, y: -24}
+        - {x: 21.5, y: 16}
+        - {x: 10.5, y: 24}
+    - name: 78bc6b62fEySW_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 379
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: -23}
+        - {x: -19.5, y: -24}
+        - {x: 21.5, y: -24}
+        - {x: 21.5, y: 15}
+        - {x: 9.5, y: 24}
+    - name: 78bc6b62fEySW_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 380
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 24}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -19}
+        - {x: -20.5, y: -24}
+        - {x: 21.5, y: -24}
+        - {x: 21.5, y: 10}
+        - {x: 16.5, y: 24}
+    - name: 78bc6b62fEySW_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 295
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10.5}
+        - {x: -11, y: 8.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -39.5}
+        - {x: 16, y: -39.5}
+        - {x: 19, y: -32.5}
+        - {x: 19, y: -5.5}
+        - {x: 12, y: 10.5}
+    - name: 78bc6b62fEySW_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 291
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18.5}
+        - {x: -9, y: 18.5}
+        - {x: -22, y: 3.5}
+        - {x: -22, y: -33.5}
+        - {x: -18, y: -39.5}
+        - {x: 7, y: -39.5}
+        - {x: 22, y: -32.5}
+        - {x: 22, y: 3.5}
+        - {x: 12, y: 16.5}
+    - name: 78bc6b62fEySW_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 291
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18.5}
+        - {x: -7, y: 18.5}
+        - {x: -22, y: 4.5}
+        - {x: -22, y: -39.5}
+        - {x: 9, y: -39.5}
+        - {x: 22, y: -33.5}
+        - {x: 22, y: -3.5}
+        - {x: 11, y: 16.5}
+    - name: 78bc6b62fEySW_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 291
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 2.5}
+        - {x: 13, y: 19.5}
+        - {x: -13, y: 19.5}
+        - {x: -20, y: 17.5}
+        - {x: -22, y: 5.5}
+        - {x: -22, y: -27.5}
+        - {x: -14, y: -39.5}
+        - {x: -7, y: -39.5}
+        - {x: -2, y: -34.5}
+        - {x: 13, y: -34.5}
+        - {x: 22, y: -17.5}
+    - name: 78bc6b62fEySW_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 292
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18.5}
+        - {x: -22, y: 11.5}
+        - {x: -22, y: -28.5}
+        - {x: -18, y: -39.5}
+        - {x: 20, y: -39.5}
+        - {x: 22, y: -24.5}
+        - {x: 22, y: 13.5}
+        - {x: 16, y: 18.5}
+    - name: 78bc6b62fEySW_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 296
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 14.5}
+        - {x: -22, y: 7.5}
+        - {x: -22, y: -14.5}
+        - {x: -15, y: -22.5}
+        - {x: -13, y: -22.5}
+        - {x: -9, y: -19.5}
+        - {x: -8, y: -16.5}
+        - {x: -8, y: -18.5}
+        - {x: -13, y: -22.5}
+        - {x: -17, y: -24.5}
+        - {x: -11, y: -39.5}
+        - {x: 9, y: -39.5}
+        - {x: 19, y: -17.5}
+        - {x: 19, y: 14.5}
+    - name: 78bc6b62fEySW_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 293
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 17.5}
+        - {x: -22, y: 15.5}
+        - {x: -22, y: -7.5}
+        - {x: -14, y: -13.5}
+        - {x: -11, y: -12.5}
+        - {x: -8, y: -10.5}
+        - {x: -11, y: -31.5}
+        - {x: -1, y: -39.5}
+        - {x: 8, y: -39.5}
+        - {x: 20, y: -10.5}
+        - {x: 20, y: 13.5}
+        - {x: 8, y: 17.5}
+    - name: 78bc6b62fEySW_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 284
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 26.5}
+        - {x: -22, y: 26.5}
+        - {x: -22, y: 3.5}
+        - {x: -21, y: 2.5}
+        - {x: -16, y: -22.5}
+        - {x: -9, y: -37.5}
+        - {x: -8, y: -39.5}
+        - {x: 3, y: -39.5}
+        - {x: 16, y: -6.5}
+        - {x: 16, y: 20.5}
+        - {x: 14, y: 25.5}
+    - name: 78bc6b62fEySW_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 280
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 39.5}
+        - {x: -22, y: -16.5}
+        - {x: -14, y: -39.5}
+        - {x: 7, y: -39.5}
+        - {x: 15, y: -19.5}
+        - {x: 15, y: 30.5}
+        - {x: -1, y: 39.5}
+    - name: 78bc6b62fEySW_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 281
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 39.5}
+        - {x: -22, y: 39.5}
+        - {x: -22, y: -6.5}
+        - {x: -21, y: -20.5}
+        - {x: -12, y: -39.5}
+        - {x: 2, y: -39.5}
+        - {x: 12, y: -25.5}
+        - {x: 15, y: -10.5}
+        - {x: 15, y: 23.5}
+    - name: 78bc6b62fEySW_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 283
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21.5}
+        - {x: -22, y: 18.5}
+        - {x: -22, y: -9.5}
+        - {x: -15, y: -35.5}
+        - {x: -12, y: -39.5}
+        - {x: 8, y: -39.5}
+        - {x: 19, y: -36.5}
+        - {x: 20, y: -33.5}
+        - {x: 20, y: 16.5}
+        - {x: -9, y: 21.5}
+    - name: 78bc6b62fEySW_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -22.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 7.5}
+        - {x: 10, y: 22.5}
+    - name: 78bc6b62fEySW_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -19, y: 9}
+        - {x: -19, y: -23}
+        - {x: 19, y: -23}
+        - {x: 19, y: 11}
+        - {x: 15, y: 23}
+    - name: 78bc6b62fEySW_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 161
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23.5}
+        - {x: -23, y: -18.5}
+        - {x: -18, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 16.5}
+        - {x: 20, y: 23.5}
+    - name: 78bc6b62fEySW_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 24}
+        - {x: -20, y: 22}
+        - {x: -22, y: 19}
+        - {x: -22, y: -5}
+        - {x: -11, y: -24}
+        - {x: 21, y: -24}
+        - {x: 22, y: -17}
+        - {x: 22, y: 23}
+        - {x: 21, y: 24}
+    - name: 78bc6b62fEySW_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 160
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -5}
+        - {x: -6, y: -24}
+        - {x: 13, y: -24}
+        - {x: 20, y: -9}
+        - {x: 20, y: 24}
+        - {x: -14, y: 24}
+        - {x: -20, y: 22}
+    - name: 78bc6b62fEySW_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -12.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 22.5, y: -12.5}
+        - {x: 22.5, y: 17.5}
+        - {x: 21.5, y: 23.5}
+    - name: 78bc6b62fEySW_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -24.5, y: 8.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -22.5, y: -22.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 20.5, y: 22.5}
+    - name: 78bc6b62fEySW_22
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 162
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23}
+        - {x: -22.5, y: -15}
+        - {x: -19.5, y: -17}
+        - {x: -0.5, y: -23}
+        - {x: 19.5, y: -23}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 22}
+        - {x: 20.5, y: 23}
+    - name: 78bc6b62fEySW_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 161
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 23.5}
+        - {x: -20, y: 23.5}
+        - {x: -25, y: 17.5}
+        - {x: -25, y: -16.5}
+        - {x: -16, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 22, y: -19.5}
+        - {x: 25, y: -4.5}
+        - {x: 25, y: 14.5}
+    - name: 78bc6b62fEySW_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -23, y: 20}
+        - {x: -23, y: -20}
+        - {x: -7, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 24}
+    - name: 78bc6b62fEySW_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 159
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 24.5}
+    - name: 78bc6b62fEySW_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 159
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24.5}
+        - {x: -21, y: 22.5}
+        - {x: -21, y: -17.5}
+        - {x: -18, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 21, y: -11.5}
+        - {x: 21, y: 22.5}
+        - {x: 20, y: 24.5}
+    - name: 78bc6b62fEySW_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 160
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 24}
+        - {x: -22.5, y: 14}
+        - {x: -22.5, y: -5}
+        - {x: -14.5, y: -24}
+        - {x: 22.5, y: -24}
+        - {x: 22.5, y: 24}
+    - name: 78bc6b62fEySW_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 164
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -25, y: 16}
+        - {x: -25, y: -1}
+        - {x: -24, y: -2}
+        - {x: -19, y: -2}
+        - {x: -18, y: -1}
+        - {x: -6, y: -1}
+        - {x: -3, y: 2}
+        - {x: -3, y: -3}
+        - {x: -7, y: -1}
+        - {x: -17, y: -1}
+        - {x: -24, y: -10}
+        - {x: -22, y: -22}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+    - name: 78bc6b62fEySW_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 162
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -10}
+        - {x: -9, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 22}
+        - {x: 23, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 21}
+    - name: 78bc6b62fEySW_30
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 163
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: -12.5}
+        - {x: 6, y: -22.5}
+        - {x: 25, y: -22.5}
+        - {x: 25, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
